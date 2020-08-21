@@ -2,4 +2,4 @@
 > I am the Captain of my ship & the Master of my faith!!
 
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=buddhikaherath92-dev&show_icons=true&hide_border=true&theme=highcontrast" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikaherath92-dev&theme=highcontrast)](https://github.com/buddhikaherath92-dev)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikaherath92-dev&theme=highcontrast)!](https://github.com/buddhikaherath92-dev)
