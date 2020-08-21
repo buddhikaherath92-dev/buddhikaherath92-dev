@@ -2,4 +2,5 @@
 > I am the Captain of my ship & the Master of my faith!!
 
  ![Buddhika Herath's github stats](https://github-readme-stats.vercel.app/api?username=buddhikaherath92-dev)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buddhikaherath92-dev)](https://github.com/anuraghazra/github-readme-stats)
 
